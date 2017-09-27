@@ -1,3 +1,7 @@
 name = Dani
 age = 20
 email = dngeorgiev@abv.bg
+
+name = Mila
+age = 20;
+email = hristova.mila@abv.bg
