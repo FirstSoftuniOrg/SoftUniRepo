@@ -1,0 +1,3 @@
+name = Dani
+age = 20
+email = dngeorgiev@abv.bg
