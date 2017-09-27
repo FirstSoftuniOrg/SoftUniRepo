@@ -1,0 +1,3 @@
+name = Mila
+age = 20;
+email = hristova.mila@abv.bg
